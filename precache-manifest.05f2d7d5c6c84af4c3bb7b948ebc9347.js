@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c475115c025ef1cb0f9e8697bfa14133",
+    "revision": "6918c91ac8d095fe9366d8a2aeea845f",
     "url": "/wyvern-stocks/index.html"
   },
   {
-    "revision": "021ed66b6463790be01e",
+    "revision": "406be8a97e34f352338c",
     "url": "/wyvern-stocks/static/css/main.e30f4b28.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wyvern-stocks/static/js/2.8475a059.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "021ed66b6463790be01e",
-    "url": "/wyvern-stocks/static/js/main.4ee985a3.chunk.js"
+    "revision": "406be8a97e34f352338c",
+    "url": "/wyvern-stocks/static/js/main.901658a7.chunk.js"
   },
   {
     "revision": "d483003c30e34563f909",

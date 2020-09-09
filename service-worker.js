@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wyvern-stocks/precache-manifest.0277a5da7e90d05e03ad61915d697c72.js"
+  "/wyvern-stocks/precache-manifest.05f2d7d5c6c84af4c3bb7b948ebc9347.js"
 );
 
 self.addEventListener('message', (event) => {
