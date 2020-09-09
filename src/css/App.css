@@ -1,0 +1,16 @@
+.App {
+  background-color: black;
+  color: white;
+}
+.top{
+  text-align: center;
+  margin: 10px;
+}
+.footer {
+  text-align: center;
+  color: grey;
+  margin-bottom: 20px;
+}
+a {
+  color: lightblue;
+}

@@ -1,0 +1,58 @@
+.header{
+    text-align: center;
+    font-size: 24pt;
+}
+.article{
+    background-color: rgb(30,30,30);
+    padding: 10px;
+    margin: 10px 20%;
+    border-radius: 10px;
+    display: flex;
+}
+.thumbnail{
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.readmore {
+    background-color: slateblue;
+    color: white;
+    border-radius: 20px;
+    border: 0px;
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    transition: all .2s ease-in-out;
+}
+.readmore:hover {
+    background-color: lightblue;
+    color: black;
+    transform: scale(1.1);
+}
+.choose {
+    background-color: black;
+    color: lightblue;
+    border: 0px;
+    border-bottom: 1px solid grey;
+    font-size: 18pt;
+}
+.news-search {
+    text-align: center;
+    color: lightblue;
+    font-weight: bold;
+    font-size: 18pt;
+}
+.news-nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.news-nav button {
+    background-color: black;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.news-title {
+    font-weight: bold;
+}
