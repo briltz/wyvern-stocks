@@ -18,7 +18,7 @@ function App() {
       <a name="top" />
       <Navbar></Navbar>
       <Switch>
-        <Route path="/" exact component={Home}/>
+        <Route path={process.env.PUBLIC_URL + '/'} exact component={Home}/>
         <Route path="/stocks" component={StockPage}/>
         <Route path="/learn" component={LearnPage}/>
         <Route path="/news" component={NewsPage}/>
