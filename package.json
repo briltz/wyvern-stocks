@@ -1,6 +1,6 @@
 {
   "name": "wyvern-stocks",
-  "homepage": "http://www.wyvernstocks.com",
+  "homepage": "http://briltz.github.io/wyvern-stocks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
