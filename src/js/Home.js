@@ -7,7 +7,7 @@ class Home extends React.Component {
     render() {
         return(
         <div>
-            <div class="welcome">Welcome to Wyvern Stocks. Your all-in-one hub for stock tracking, signals, learning, and community. Do your due dilligence on any stock fast and easy with our intuitive and free system.</div>
+            <div class="welcome"><div class="welcome-text">Welcome to Wyvern Stocks. Your all-in-one hub for stock tracking, signals, learning, and community. Do your due dilligence on any stock fast and easy with our intuitive and free system.</div></div>
             <Stock/>
             <div class="guide">
                 <Link to='/learn'><button class="guide-button">Learn</button></Link>
